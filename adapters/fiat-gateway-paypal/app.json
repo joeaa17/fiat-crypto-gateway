@@ -1,7 +1,0 @@
-{
-  "name": "fiat-crypto-gateway",
-  "description": "fiat-crypto-gateway",
-  "repository": "https://github.com/joeaa17/fiat-crypto-gateway/tree/master/adapters/fiat-gateway-paypal",
-  "logo": "",
-  "keywords": ["fiat", "crypto", "gateway"]
-}
