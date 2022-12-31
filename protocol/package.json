@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "chainlink": "0.7.5",
+    "chainlink": "0.7.10",
     "@openzeppelin/contracts": "^2.3.0"
   },
   "devDependencies": {
